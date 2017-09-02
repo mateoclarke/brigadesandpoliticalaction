@@ -1,4 +1,4 @@
-# Brigades and Poltical Action 
+# Brigades and Political Action 
 
 Code for America has gotten a number of questions about how Brigades should approach political activism given the current political situation in this country. 
 
